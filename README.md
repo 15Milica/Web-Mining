@@ -5,7 +5,7 @@ https://www.kaggle.􏰁om/datasets/kritanjalijain/amazon-reviews
 # Sentiment Analysis — RoBERTa Fine-Tuning
 
 Ovaj projekat obuhvata fino podešavanje RoBERTa modela za analizu sentimenta nad Amazon Reviews dataset-om. Korišćeni su različiti modeli, poređene performanse i dokumentovan proces obrade, treniranja i evaluacije.
-.
+```
 ├── training/                          # Folder sa trening skriptama po modelima
 │   ├── distilroberta-base-sst2/
 │   │   └── traning_model1.ipynb       # Fine-tuning DistilRoBERTa-SST2
@@ -24,3 +24,4 @@ Ovaj projekat obuhvata fino podešavanje RoBERTa modela za analizu sentimenta na
 ├── requirements.txt                   # Python paketi potrebni za projekat
 ├── .gitignore                         # Izuzeti fajlovi i foldere iz git repozitorijuma
 └── README.md                          # Dokumentacija projekta
+```
